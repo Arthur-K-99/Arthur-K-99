@@ -17,7 +17,7 @@ I build hands-on labs and practical tools around network engineering, cloud infr
 | [Arista Data Center Fabric Lab](https://github.com/Arthur-K-99/arista-datacenter-fabric-lab) | Automated EVPN/VXLAN fabric using Containerlab, NetBox, Ansible, and Jinja2 |
 | [Cisco NAT Lab](https://github.com/Arthur-K-99/cisco-nat-lab) | Seven Cisco IOS-XE NAT scenarios with guided verification and troubleshooting |
 | [Nokia EVPN Lab](https://github.com/Arthur-K-99/nokia-evpn-lab) | Nokia SR Linux EVPN/VXLAN data center fabric over eBGP |
-| [Azure HA Web Architecture](https://github.com/Arthur-K-99/AZ104-HA-Web-Architecture) | Highly available, autoscaling Azure web architecture deployed with Terraform |
+| [Azure HA Web Architecture Lab](https://github.com/Arthur-K-99/azure-ha-web-architecture-lab) | Highly available, autoscaling Azure web architecture deployed with Terraform |
 | [PKI ACME Lab](https://github.com/Arthur-K-99/pki-acme-lab) | Private certificate authority, ACME issuance, TLS, and automated renewal |
 | [Oncology Portal](https://github.com/Arthur-K-99/oncology-portal) | Clinical genomics portal connecting cancer variants and genes to therapeutic data |
 
@@ -32,7 +32,7 @@ I build hands-on labs and practical tools around network engineering, cloud infr
 
 - [Knowledge Base](https://github.com/Arthur-K-99/knowledge-base): personal digital garden and technical notes
 - [Dotfiles](https://github.com/Arthur-K-99/dotfiles): cross-platform terminal and development environment configuration
-- [Scripts](https://github.com/Arthur-K-99/Scripts): PowerShell tools for Windows administration
+- [Automation Scripts](https://github.com/Arthur-K-99/automation-scripts): practical automation and administration scripts
 - [Obsidian MCQ Formatter](https://github.com/Arthur-K-99/obsidian-mcq-formatter): Markdown formatting utility for study material
 
 Browse all of my [repositories](https://github.com/Arthur-K-99?tab=repositories).
